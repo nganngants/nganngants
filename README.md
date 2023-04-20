@@ -6,8 +6,6 @@
 
 - 🌱 My interests are with **Computer Vision, Natural Language Processing, Web Development**
 
-- 💬 Ask me about **anything, I am happpy to help.**
-
 - 📫 Contact with me via email: **nganvtt.work@gmail.com**
 
 
