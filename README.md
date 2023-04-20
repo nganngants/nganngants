@@ -2,7 +2,7 @@
 
 <img align='right' height = 170 src="https://github-readme-stats.vercel.app/api?username=nganngants&show_icons=true&locale=en" alt="nganngants">
 
-- 🌱 My interests are with **Machine Learning, Computer Vision, Natural Language Processing**
+- 🌱 My interests are with **Computer Vision, Natural Language Processing, Web Development**
 
 - 💬 Ask me about **anything, I am happpy to help.**
 
