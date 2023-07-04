@@ -4,9 +4,11 @@
 
 <img align='right' height = 170 src="https://github-readme-stats.vercel.app/api?username=nganngants&show_icons=true&locale=en" alt="nganngants">
 
-- 🌱 My interests are with **Computer Vision, Natural Language Processing, Web Development**
+- 🌱 My interests are with **Computer Vision, Natural Language Processing and Data Science**
 
 - 📫 Contact with me via email: **nganvtt.work@gmail.com**
+
+- 👋 Interested and willing to learn anything
 
 
 
