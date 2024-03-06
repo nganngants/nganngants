@@ -6,7 +6,7 @@
 
 - 👋 Interested and willing to learn anything
 
-- 📝 See my [resume](https://drive.google.com/file/d/1aBqLJVcVeRmiy2xUy__hDi5AGYv6lrN_/view?usp=sharing) to get more info
+- 📝 See my [CV](https://drive.google.com/file/d/1AW4GdxSUC0cNRxArIFFclgwuPS1AupnL/view?usp=sharing) to get more info
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&url=https://www.linkedin.com/in/ngan-vo-tran-thu)](https://www.linkedin.com/in/ngan-vo-tran-thu/)
 
