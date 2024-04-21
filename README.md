@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Ngan</h1>
 
-- 🌱 My interests are with **Computer Vision, Natural Language Processing and Data Science**
+- 🌱 My interests are **Software Engineering, Data Science**
 
 - 📫 Contact with me via email: **nganvtt.work@gmail.com**
 
